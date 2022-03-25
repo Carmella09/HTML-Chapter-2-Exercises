@@ -1,4 +1,4 @@
-# HTML-Chapter-1-Activty-2
+# HTML-Chapter-2
 
 
 
